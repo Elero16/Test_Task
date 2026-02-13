@@ -19,5 +19,6 @@ REST-сервис на Go для агрегации данных об онлай
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/effective-mobile-test.git](https://github.com/YOUR_USERNAME/effective-mobile-test.git)
+   git clone [https://github.com/Elero16/effective-mobile-test.git](https://github.com/Elero16/effective-mobile-test.git)
+
    cd effective-mobile-test
